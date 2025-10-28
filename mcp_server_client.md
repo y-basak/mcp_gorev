@@ -12,9 +12,8 @@ pip install mcp
 
 ```
 .
-├── mcp_server.py    # MCP sunucusu
-├── mcp_client.py    # MCP istemcisi
-└── README.md        # Bu dosya
+├── mcp_server.py    # MCP sunucusu 
+└── mcp_client.py    # MCP istemcisi
 ```
 
 ## Dosyalar
